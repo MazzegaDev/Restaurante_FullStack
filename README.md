@@ -50,12 +50,6 @@ npm run dev
 
 Em seguida, abra `http://localhost:3000` no navegador.
 
-**Observações e melhorias futuras**
-
--  Limitar/ordenar melhor a lista aleatória (ex.: obter mais itens e deduplicar).
--  Adicionar autenticação simples para associar históricos a um usuário.
--  Persistir histórico de pedidos em armazenamento local (`localStorage`) ou backend.
--  Melhorar UX (feedback ao adicionar itens, modal de confirmação, total do pedido, quantidades).
 
 **Conclusão**
 Esta atividade revisou conceitos de React/Next.js, consumo de APIs externas, componentização e gerenciamento de estado global via Context API. A aplicação permite a construção de um fluxo completo de seleção e finalização de pedidos, incluindo armazenamento de histórico.
