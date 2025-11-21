@@ -56,4 +56,4 @@ Esta atividade revisou conceitos de React/Next.js, consumo de APIs externas, com
 
 ---
 
-Arquivo atualizado: `app/README.md`
+
