@@ -1,0 +1,3 @@
+Página para finalizar o pedido
+Criar uma página para exibir os itens (refeições e bebidas) que foram selecionados pelo usuário no menu, e um botão "Finalizar pedido".
+Ao finalizar o pedido, o contexto de seleção deve ser zerado, e esses itens devem agora ficar armazenados no contexto de histórico de pedidos que também deverá ser exibido nessa nova página.
